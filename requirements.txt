@@ -3,6 +3,9 @@ matplotlib
 bcrypt
 pillow
 
+# PyQt6 for GUI
+PyQt6>=6.4.0
+
 # New dependencies for feature enhancements
 reportlab>=4.0.0      # PDF generation (4.1)
 openpyxl>=3.1.0       # Excel generation (4.1, 4.3)
