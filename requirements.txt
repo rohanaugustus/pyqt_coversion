@@ -1,0 +1,8 @@
+# Existing dependencies
+matplotlib
+bcrypt
+pillow
+
+# New dependencies for feature enhancements
+reportlab>=4.0.0      # PDF generation (4.1)
+openpyxl>=3.1.0       # Excel generation (4.1, 4.3)
